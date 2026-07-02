@@ -74,7 +74,8 @@ def main():
         finaloutput = pipeline(prompt)
         print("Code : \n",finaloutput)
 
-main()
+if __name__ == "__main__":
+    main()
 
 
     

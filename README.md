@@ -1,4 +1,4 @@
-IN this task i have use two GROQ APIs stored in .anv
+IN this task i have use two GROQ APIs stored in .env
 two models used : openai/gpt-oss-20b
 First model machanism
 ask the user to enter the prompt:
